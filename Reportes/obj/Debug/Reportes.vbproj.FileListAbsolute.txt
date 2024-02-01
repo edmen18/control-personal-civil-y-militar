@@ -1,0 +1,102 @@
+C:\Users\EDGAR\Desktop\integrado\Reportes\bin\Debug\Reportes.dll
+C:\Users\EDGAR\Desktop\integrado\Reportes\bin\Debug\Reportes.pdb
+C:\Users\EDGAR\Desktop\integrado\Reportes\bin\Debug\Reportes.xml
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.Frmreport.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.FrmReportes.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.XRAnnio.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.XRPERSONALXAREA.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.Xrtardanzasxpersona.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.XRVacacionesxpersona.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.Xr_PermisosPersonal.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.XR_permisosTodos.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.Xr_tya.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.XtraReport1.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.XtraReport2.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.XtraReport3.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.Resources.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.PrintRibbonControllerResources.resources
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.dll.licenses
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.dll
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.xml
+C:\Users\EDGAR\Desktop\integrado\Reportes\obj\Debug\Reportes.pdb
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.Frmreport.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.FrmReportes.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.XRAnnio.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.XRPERSONALXAREA.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.Xrtardanzasxpersona.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.XRVacacionesxpersona.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.Xr_PermisosPersonal.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.XR_permisosTodos.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.Xr_tya.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.XtraReport1.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.XtraReport2.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.XtraReport3.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.PrintRibbonControllerResources.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.dll.licenses
+D:\Proyectos\visual 2010\integrado\Reportes\bin\Debug\Reportes.dll
+D:\Proyectos\visual 2010\integrado\Reportes\bin\Debug\Reportes.pdb
+D:\Proyectos\visual 2010\integrado\Reportes\bin\Debug\Reportes.xml
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.dll
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.xml
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.pdb
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.Xr_adicionalmesaniio.resources
+D:\Proyectos\visual 2010\integrado\Reportes\obj\Debug\Reportes.Xr_adicionalesxpersona.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\bin\Debug\Reportes.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\bin\Debug\Reportes.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\bin\Debug\Reportes.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.Frmreport.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.FrmReportes.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XRAnnio.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XRPERSONALXAREA.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XrSaldosVacaciones.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.Xrtardanzasxpersona.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XRVacacionesxpersona.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.Xr_adicionalesxpersona.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.Xr_adicionalmesaniio.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.Xr_PermisosPersonal.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XR_permisosTodos.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.Xr_tya.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XtraReport1.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XtraReport2.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.XtraReport3.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.Resources.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.PrintRibbonControllerResources.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.dll.licenses
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.Frmreport.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.FrmReportes.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XRAnnio.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XRPERSONALXAREA.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XrSaldosVacaciones.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.Xrtardanzasxpersona.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XRVacacionesxpersona.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.Xr_adicionalesxpersona.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.Xr_adicionalmesaniio.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.Xr_PermisosPersonal.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XR_permisosTodos.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.Xr_tya.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XtraReport1.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XtraReport2.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.XtraReport3.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.Resources.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.PrintRibbonControllerResources.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.vbproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.dll.licenses
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\obj\Debug\Reportes.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\bin\Debug\Reportes.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\bin\Debug\Reportes.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reportes\bin\Debug\Reportes.xml

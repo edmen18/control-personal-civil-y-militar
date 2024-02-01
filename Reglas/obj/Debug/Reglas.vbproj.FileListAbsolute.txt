@@ -1,0 +1,51 @@
+C:\Users\EDGAR\Desktop\integrado\Reglas\bin\Debug\Reglas.dll
+C:\Users\EDGAR\Desktop\integrado\Reglas\bin\Debug\Reglas.pdb
+C:\Users\EDGAR\Desktop\integrado\Reglas\bin\Debug\Reglas.xml
+C:\Users\EDGAR\Desktop\integrado\Reglas\bin\Debug\Datos.dll
+C:\Users\EDGAR\Desktop\integrado\Reglas\bin\Debug\Datos.pdb
+C:\Users\EDGAR\Desktop\integrado\Reglas\bin\Debug\Datos.xml
+C:\Users\EDGAR\Desktop\integrado\Reglas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EDGAR\Desktop\integrado\Reglas\obj\Debug\Reglas.Resources.resources
+C:\Users\EDGAR\Desktop\integrado\Reglas\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\EDGAR\Desktop\integrado\Reglas\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\EDGAR\Desktop\integrado\Reglas\obj\Debug\Reglas.dll
+C:\Users\EDGAR\Desktop\integrado\Reglas\obj\Debug\Reglas.xml
+C:\Users\EDGAR\Desktop\integrado\Reglas\obj\Debug\Reglas.pdb
+D:\Proyectos\visual 2010\integrado\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Proyectos\visual 2010\integrado\Reglas\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado\Reglas\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\visual 2010\integrado\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\visual 2010\integrado\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\visual 2010\integrado\Reglas\bin\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado\Reglas\bin\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado\Reglas\bin\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\visual 2010\integrado\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\visual 2010\integrado\Reglas\obj\Debug\Reglas.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\bin\Debug\Reglas.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\bin\Debug\Reglas.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\bin\Debug\Reglas.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\bin\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\bin\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\bin\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\obj\Debug\Reglas.Resources.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\obj\Debug\Reglas.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\obj\Debug\Reglas.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\Reglas\obj\Debug\Reglas.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\bin\Debug\Reglas.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\bin\Debug\Reglas.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\bin\Debug\Reglas.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\bin\Debug\Datos.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\bin\Debug\Datos.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\bin\Debug\Datos.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\obj\Debug\Reglas.vbprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\obj\Debug\Reglas.Resources.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\obj\Debug\Reglas.vbproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\obj\Debug\Reglas.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\obj\Debug\Reglas.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Reglas\obj\Debug\Reglas.pdb

@@ -1,0 +1,12 @@
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\bin\Debug\ejemploHuella1.exe
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\bin\Debug\ejemploHuella1.pdb
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\bin\Debug\ejemploHuella1.xml
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella.Frm_Agregar.resources
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella.inicial.resources
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella.Resources.resources
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella.Verificacion.resources
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella1.vbproj.GenerateResource.Cache
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+C:\Documents and Settings\HR\Mis documentos\Visual Studio 2005\Projects\ejemploHuella1\ejemploHuella1\obj\Debug\ejemploHuella1.pdb

@@ -1,0 +1,38 @@
+C:\Users\EDGAR\Desktop\integrado\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EDGAR\Desktop\integrado\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\EDGAR\Desktop\integrado\Datos\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\EDGAR\Desktop\integrado\Datos\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\EDGAR\Desktop\integrado\Datos\bin\Debug\Datos.dll
+C:\Users\EDGAR\Desktop\integrado\Datos\bin\Debug\Datos.pdb
+C:\Users\EDGAR\Desktop\integrado\Datos\bin\Debug\Datos.xml
+C:\Users\EDGAR\Desktop\integrado\Datos\obj\Debug\Datos.dll
+C:\Users\EDGAR\Desktop\integrado\Datos\obj\Debug\Datos.xml
+C:\Users\EDGAR\Desktop\integrado\Datos\obj\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado\Datos\obj\Debug\Datos.Resources.resources
+D:\Proyectos\visual 2010\integrado\Datos\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado\Datos\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado\Datos\bin\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado\Datos\bin\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado\Datos\bin\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado\Datos\obj\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado\Datos\obj\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado\Datos\obj\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\bin\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\bin\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\bin\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\obj\Debug\Datos.Resources.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\obj\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\obj\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\Datos\obj\Debug\Datos.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\bin\Debug\Datos.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\bin\Debug\Datos.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\bin\Debug\Datos.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\obj\Debug\Datos.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\obj\Debug\Datos.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\Datos\obj\Debug\Datos.pdb

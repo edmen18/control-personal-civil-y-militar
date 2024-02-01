@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Ds_vacaciones" targetNamespace="http://tempuri.org/Ds_vacaciones.xsd" xmlns:mstns="http://tempuri.org/Ds_vacaciones.xsd" xmlns="http://tempuri.org/Ds_vacaciones.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Ds_vacaciones" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Ds_vacaciones" msprop:Generator_UserDSName="Ds_vacaciones">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dt_vacaciones" msprop:Generator_TableClassName="dt_vacacionesDataTable" msprop:Generator_TableVarName="tabledt_vacaciones" msprop:Generator_TablePropName="dt_vacaciones" msprop:Generator_RowDeletingName="dt_vacacionesRowDeleting" msprop:Generator_UserTableName="dt_vacaciones" msprop:Generator_RowChangingName="dt_vacacionesRowChanging" msprop:Generator_RowEvHandlerName="dt_vacacionesRowChangeEventHandler" msprop:Generator_RowDeletedName="dt_vacacionesRowDeleted" msprop:Generator_RowEvArgName="dt_vacacionesRowChangeEvent" msprop:Generator_RowChangedName="dt_vacacionesRowChanged" msprop:Generator_RowClassName="dt_vacacionesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nrodocidentidad" msprop:Generator_ColumnVarNameInTable="columnnrodocidentidad" msprop:Generator_ColumnPropNameInRow="nrodocidentidad" msprop:Generator_ColumnPropNameInTable="nrodocidentidadColumn" msprop:Generator_UserColumnName="nrodocidentidad" type="xs:string" minOccurs="0" />
+              <xs:element name="nombres" msprop:Generator_ColumnVarNameInTable="columnnombres" msprop:Generator_ColumnPropNameInRow="nombres" msprop:Generator_ColumnPropNameInTable="nombresColumn" msprop:Generator_UserColumnName="nombres" type="xs:string" minOccurs="0" />
+              <xs:element name="apellidopaterno" msprop:Generator_ColumnVarNameInTable="columnapellidopaterno" msprop:Generator_ColumnPropNameInRow="apellidopaterno" msprop:Generator_ColumnPropNameInTable="apellidopaternoColumn" msprop:Generator_UserColumnName="apellidopaterno" type="xs:string" minOccurs="0" />
+              <xs:element name="apellidomaterno" msprop:Generator_ColumnVarNameInTable="columnapellidomaterno" msprop:Generator_ColumnPropNameInRow="apellidomaterno" msprop:Generator_ColumnPropNameInTable="apellidomaternoColumn" msprop:Generator_UserColumnName="apellidomaterno" type="xs:string" minOccurs="0" />
+              <xs:element name="fechadel" msprop:Generator_ColumnVarNameInTable="columnfechadel" msprop:Generator_ColumnPropNameInRow="fechadel" msprop:Generator_ColumnPropNameInTable="fechadelColumn" msprop:Generator_UserColumnName="fechadel" type="xs:string" minOccurs="0" />
+              <xs:element name="fechaal" msprop:Generator_ColumnVarNameInTable="columnfechaal" msprop:Generator_ColumnPropNameInRow="fechaal" msprop:Generator_ColumnPropNameInTable="fechaalColumn" msprop:Generator_UserColumnName="fechaal" type="xs:string" minOccurs="0" />
+              <xs:element name="dias" msprop:Generator_ColumnVarNameInTable="columndias" msprop:Generator_ColumnPropNameInRow="dias" msprop:Generator_ColumnPropNameInTable="diasColumn" msprop:Generator_UserColumnName="dias" type="xs:string" minOccurs="0" />
+              <xs:element name="numerodias" msprop:Generator_ColumnVarNameInTable="columnnumerodias" msprop:Generator_ColumnPropNameInRow="numerodias" msprop:Generator_ColumnPropNameInTable="numerodiasColumn" msprop:Generator_UserColumnName="numerodias" type="xs:string" minOccurs="0" />
+              <xs:element name="Año" msprop:Generator_ColumnVarNameInTable="columnAño" msprop:Generator_ColumnPropNameInRow="Año" msprop:Generator_ColumnPropNameInTable="AñoColumn" msprop:Generator_UserColumnName="Año" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8157F197-F698-435A-A4C7-7772723534D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ejemploHuella.My.MyApplication</StartupObject>
+    <RootNamespace>ejemploHuella</RootNamespace>
+    <AssemblyName>ejemploHuella1</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ejemploHuella1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ejemploHuella1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v12.2.Core, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v12.2.Core, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v12.2.Core, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v12.2.Core, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Extensions, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.UI, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v12.2.Wizard, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v12.2, Version=12.2.10.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DPFPDevNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=696774c42ee28c57, processorArchitecture=MSIL" />
+    <Reference Include="DPFPEngNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=7fe76e7adf19964b, processorArchitecture=MSIL" />
+    <Reference Include="DPFPGuiNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=d4f4a0bd9c559145, processorArchitecture=MSIL" />
+    <Reference Include="DPFPShrNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=d902fe275a8d6cf2, processorArchitecture=MSIL" />
+    <Reference Include="DPFPVerNET, Version=1.6.1.0, Culture=neutral, PublicKeyToken=4de0a9c4dcc83984, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAnio.Designer.vb">
+      <DependentUpon>FrmAnio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAnio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAreas.Designer.vb">
+      <DependentUpon>FrmAreas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAreas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAsistencia.Designer.vb">
+      <DependentUpon>FrmAsistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAsistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmControlVacaciones.Designer.vb">
+      <DependentUpon>FrmControlVacaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmControlVacaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEspecialidad.Designer.vb">
+      <DependentUpon>FrmEspecialidad.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEspecialidad.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEstadisticoPermisos.Designer.vb">
+      <DependentUpon>FrmEstadisticoPermisos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstadisticoPermisos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHorarios.Designer.vb">
+      <DependentUpon>FrmHorarios.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHorarios.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPermisos.Designer.vb">
+      <DependentUpon>FrmPermisos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPermisos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPersonal.Designer.vb">
+      <DependentUpon>FrmPersonal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPersonal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReporteAsistencia.Designer.vb">
+      <DependentUpon>FrmReporteAsistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmReporteAsistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTipoPersonal.Designer.vb">
+      <DependentUpon>FrmTipoPersonal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTipoPersonal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTodos.Designer.vb">
+      <DependentUpon>FrmTodos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTodos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTurnos.Designer.vb">
+      <DependentUpon>FrmTurnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTurnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVacaciones.Designer.vb">
+      <DependentUpon>FrmVacaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVacaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmvpersona.Designer.vb">
+      <DependentUpon>Frmvpersona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmvpersona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RbPrincipal.Designer.vb">
+      <DependentUpon>RbPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RbPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Verificacion.Designer.vb">
+      <DependentUpon>Verificacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Verificacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAnio.resx">
+      <DependentUpon>FrmAnio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAreas.resx">
+      <DependentUpon>FrmAreas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAsistencia.resx">
+      <DependentUpon>FrmAsistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmControlVacaciones.resx">
+      <DependentUpon>FrmControlVacaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEspecialidad.resx">
+      <DependentUpon>FrmEspecialidad.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEstadisticoPermisos.resx">
+      <DependentUpon>FrmEstadisticoPermisos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHorarios.resx">
+      <DependentUpon>FrmHorarios.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPermisos.resx">
+      <DependentUpon>FrmPermisos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPersonal.resx">
+      <DependentUpon>FrmPersonal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmReporteAsistencia.resx">
+      <DependentUpon>FrmReporteAsistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTipoPersonal.resx">
+      <DependentUpon>FrmTipoPersonal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTodos.resx">
+      <DependentUpon>FrmTodos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTurnos.resx">
+      <DependentUpon>FrmTurnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVacaciones.resx">
+      <DependentUpon>FrmVacaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmvpersona.resx">
+      <DependentUpon>Frmvpersona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RbPrincipal.resx">
+      <DependentUpon>RbPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Verificacion.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Verificacion.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Iconos\Imgs\Head.psd" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Iconos\01.png" />
+    <Content Include="Iconos\02.png" />
+    <Content Include="Iconos\03.png" />
+    <Content Include="Iconos\03_32x32.png" />
+    <Content Include="Iconos\04.png" />
+    <Content Include="Iconos\05.png" />
+    <Content Include="Iconos\06.png" />
+    <Content Include="Iconos\07.png" />
+    <Content Include="Iconos\08.png" />
+    <Content Include="Iconos\09.png" />
+    <Content Include="Iconos\10.png" />
+    <Content Include="Iconos\100.png" />
+    <Content Include="Iconos\101.png" />
+    <Content Include="Iconos\102.png" />
+    <Content Include="Iconos\103.png" />
+    <Content Include="Iconos\104.png" />
+    <Content Include="Iconos\105.png" />
+    <Content Include="Iconos\106.png" />
+    <Content Include="Iconos\107.png" />
+    <Content Include="Iconos\108.png" />
+    <Content Include="Iconos\11.png" />
+    <Content Include="Iconos\12g.png" />
+    <Content Include="Iconos\13.png" />
+    <Content Include="Iconos\14.png" />
+    <Content Include="Iconos\15.png" />
+    <Content Include="Iconos\16g.png" />
+    <Content Include="Iconos\18.ico" />
+    <Content Include="Iconos\18.png" />
+    <Content Include="Iconos\19.png" />
+    <Content Include="Iconos\20.png" />
+    <Content Include="Iconos\21.png" />
+    <Content Include="Iconos\23.png" />
+    <Content Include="Iconos\24.png" />
+    <Content Include="Iconos\25.png" />
+    <Content Include="Iconos\26.png" />
+    <Content Include="Iconos\27.png" />
+    <Content Include="Iconos\28.png" />
+    <Content Include="Iconos\29.png" />
+    <Content Include="Iconos\30.png" />
+    <Content Include="Iconos\31.png" />
+    <Content Include="Iconos\32.png" />
+    <Content Include="Iconos\33.png" />
+    <Content Include="Iconos\34.png" />
+    <Content Include="Iconos\35.png" />
+    <Content Include="Iconos\36b.png" />
+    <Content Include="Iconos\36_32x32.png" />
+    <Content Include="Iconos\37.png" />
+    <Content Include="Iconos\38.png" />
+    <Content Include="Iconos\39.png" />
+    <Content Include="Iconos\41.png" />
+    <Content Include="Iconos\42.png" />
+    <Content Include="Iconos\43.png" />
+    <Content Include="Iconos\44.png" />
+    <Content Include="Iconos\45.png" />
+    <Content Include="Iconos\46.png" />
+    <Content Include="Iconos\47.png" />
+    <Content Include="Iconos\48.png" />
+    <Content Include="Iconos\49.png" />
+    <Content Include="Iconos\50.png" />
+    <Content Include="Iconos\51.png" />
+    <Content Include="Iconos\52.png" />
+    <Content Include="Iconos\53.png" />
+    <Content Include="Iconos\54.png" />
+    <Content Include="Iconos\55.png" />
+    <Content Include="Iconos\56.png" />
+    <Content Include="Iconos\57.png" />
+    <Content Include="Iconos\58.png" />
+    <Content Include="Iconos\59.png" />
+    <Content Include="Iconos\60.png" />
+    <Content Include="Iconos\65.png" />
+    <Content Include="Iconos\70.png" />
+    <Content Include="Iconos\71.png" />
+    <Content Include="Iconos\72b.png" />
+    <Content Include="Iconos\73.png" />
+    <Content Include="Iconos\74.png" />
+    <Content Include="Iconos\75.png" />
+    <Content Include="Iconos\76.png" />
+    <Content Include="Iconos\77.png" />
+    <Content Include="Iconos\78.png" />
+    <Content Include="Iconos\79.png" />
+    <Content Include="Iconos\80.png" />
+    <Content Include="Iconos\81.png" />
+    <Content Include="Iconos\82.png" />
+    <Content Include="Iconos\83.png" />
+    <Content Include="Iconos\84.png" />
+    <Content Include="Iconos\85.png" />
+    <Content Include="Iconos\86.png" />
+    <Content Include="Iconos\87.png" />
+    <Content Include="Iconos\88.png" />
+    <Content Include="Iconos\89.png" />
+    <Content Include="Iconos\90.png" />
+    <Content Include="Iconos\91.png" />
+    <Content Include="Iconos\92.png" />
+    <Content Include="Iconos\93.png" />
+    <Content Include="Iconos\94.png" />
+    <Content Include="Iconos\95.png" />
+    <Content Include="Iconos\96.png" />
+    <Content Include="Iconos\97.png" />
+    <Content Include="Iconos\98.png" />
+    <Content Include="Iconos\99.png" />
+    <Content Include="Iconos\b_109.png" />
+    <Content Include="Iconos\exit.png" />
+    <Content Include="Iconos\exit1_on.png" />
+    <Content Include="Iconos\exit_on.ico" />
+    <Content Include="Iconos\Exit_one.png" />
+    <Content Include="Iconos\Imgs\abc.png" />
+    <Content Include="Iconos\Imgs\bodybg.gif" />
+    <Content Include="Iconos\Imgs\Head.png" />
+    <Content Include="Iconos\Imgs\lock.png" />
+    <Content Include="Iconos\Imgs\lockD.png" />
+    <Content Include="Iconos\small\01.png" />
+    <Content Include="Iconos\small\02.png" />
+    <Content Include="Iconos\small\03.png" />
+    <Content Include="Iconos\small\04.png" />
+    <Content Include="Iconos\small\05.png" />
+    <Content Include="Iconos\small\06.png" />
+    <Content Include="Iconos\small\07.png" />
+    <Content Include="Iconos\small\08.png" />
+    <Content Include="Iconos\small\09.png" />
+    <Content Include="Iconos\small\10.png" />
+    <Content Include="Iconos\small\11.png" />
+    <Content Include="Iconos\small\12.png" />
+    <Content Include="Iconos\small\13.png" />
+    <Content Include="Iconos\small\14.png" />
+    <Content Include="Iconos\small\15.png" />
+    <Content Include="Iconos\small\16.png" />
+    <Content Include="Iconos\small\17.png" />
+    <Content Include="Iconos\small\18.png" />
+    <Content Include="Iconos\small\19s.png" />
+    <Content Include="Iconos\small\20.png" />
+    <Content Include="Iconos\small\21.png" />
+    <Content Include="Iconos\small\22.png" />
+    <Content Include="Iconos\small\23.png" />
+    <Content Include="Iconos\small\24.png" />
+    <Content Include="Iconos\small\25.png" />
+    <Content Include="Iconos\small\26.png" />
+    <Content Include="Iconos\small\27.png" />
+    <Content Include="Iconos\small\28.png" />
+    <Content Include="Iconos\small\29.png" />
+    <Content Include="Iconos\small\30.png" />
+    <Content Include="Iconos\small\31.png" />
+    <Content Include="Iconos\small\32.png" />
+    <Content Include="Iconos\small\33.png" />
+    <Content Include="Iconos\small\34.png" />
+    <Content Include="Iconos\small\35.png" />
+    <Content Include="Iconos\small\36.png" />
+    <Content Include="Iconos\small\37.png" />
+    <Content Include="Iconos\small\38.png" />
+    <Content Include="Iconos\small\39.png" />
+    <Content Include="Iconos\small\40.png" />
+    <Content Include="Iconos\small\41.png" />
+    <Content Include="Iconos\small\46.png" />
+    <Content Include="Iconos\small\47.png" />
+    <Content Include="Iconos\small\48.png" />
+    <Content Include="Iconos\small\49s.png" />
+    <Content Include="Iconos\small\50.png" />
+    <Content Include="Iconos\small\51.png" />
+    <Content Include="Iconos\small\52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Reglas\Reglas.vbproj">
+      <Project>{FED2A1D5-67CE-432E-B9F7-286ECD21B74A}</Project>
+      <Name>Reglas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Reportes\Reportes.vbproj">
+      <Project>{750254C4-6C54-4F66-B481-CFF700E8FB27}</Project>
+      <Name>Reportes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

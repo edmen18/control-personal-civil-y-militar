@@ -1,0 +1,186 @@
+E:\ejemplos para lector de huella\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+E:\ejemplos para lector de huella\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+E:\ejemplos para lector de huella\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+C:\Documents and Settings\Administrador\Escritorio\POSTECHPERU\Para CDS\Lector de Huella UAREU 4000B\Codigos Fuente\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+C:\Documents and Settings\Administrador\Escritorio\POSTECHPERU\Para CDS\Lector de Huella UAREU 4000B\Codigos Fuente\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+C:\Documents and Settings\Administrador\Escritorio\POSTECHPERU\Para CDS\Lector de Huella UAREU 4000B\Codigos Fuente\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\bin\Debug\ejemploHuella1.exe
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\bin\Debug\ejemploHuella1.pdb
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\bin\Debug\ejemploHuella1.xml
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella.Resources.resources
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ejemploHuella.Verificacion.resources
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ResGen.read.1.tlog
+C:\Users\EDGAR\Desktop\Ejemplo Huella .NET\ejemploHuella1\obj\Debug\ResGen.write.1.tlog
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.exe.config
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.exe
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.pdb
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.xml
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Reglas.dll
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Reportes.dll
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Datos.dll
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Reglas.pdb
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Reglas.xml
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Reportes.pdb
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Reportes.xml
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Datos.pdb
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\bin\Debug\Datos.xml
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Form1.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmAnio.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmAreas.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmEspecialidad.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmHorarios.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmPermisos.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmPersonal.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmReporteAsistencia.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmTipoPersonal.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmTodos.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmTurnos.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmVacaciones.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Frmvpersona.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Resources.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.RbPrincipal.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Verificacion.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.exe.licenses
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmControlVacaciones.resources
+C:\Users\EDGAR\Desktop\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Form2.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Form1.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Form2.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmAnio.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmAreas.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmControlVacaciones.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmEspecialidad.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmEstadisticoPermisos.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmHorarios.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmPermisos.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmPersonal.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmReporteAsistencia.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmTipoPersonal.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmTodos.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmTurnos.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmVacaciones.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Frmvpersona.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Resources.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.RbPrincipal.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.Verificacion.resources
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.exe.licenses
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.exe.config
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.exe
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.pdb
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\ejemploHuella1.xml
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Reglas.dll
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Reportes.dll
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Reglas.pdb
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Reglas.xml
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Reportes.pdb
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Reportes.xml
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\bin\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+D:\Proyectos\visual 2010\integrado\ejemploHuella1\obj\Debug\ejemploHuella.FrmAsistencia.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\ejemploHuella1.exe.config
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\ejemploHuella1.exe
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\ejemploHuella1.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\ejemploHuella1.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Reglas.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Reportes.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Datos.dll
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Reglas.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Reglas.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Reportes.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Reportes.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Datos.pdb
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\bin\Debug\Datos.xml
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.Form1.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.Form2.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmAnio.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmAreas.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmAsistencia.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmControlVacaciones.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmEspecialidad.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmEstadisticoPermisos.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmHorarios.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmPermisos.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmPersonal.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmReporteAsistencia.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmTipoPersonal.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmTodos.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmTurnos.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.FrmVacaciones.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.Frmvpersona.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.Resources.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.RbPrincipal.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella.Verificacion.resources
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\GenerateResource.read.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\GenerateResource.write.1.tlog
+D:\Proyectos\visual 2010\integrado - VACACIONES\ejemploHuella1\obj\Debug\ejemploHuella1.exe.licenses
+E:\Proyectos\visual 2010\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\ejemploHuella1.exe.config
+E:\Proyectos\visual 2010\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+E:\Proyectos\visual 2010\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+E:\Proyectos\visual 2010\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\ejemploHuella1.exe.config
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.vbprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.Form1.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.Form2.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmAnio.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmAreas.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmAsistencia.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmControlVacaciones.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmEspecialidad.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmEstadisticoPermisos.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmHorarios.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmPermisos.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmPersonal.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmReporteAsistencia.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmTipoPersonal.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmTodos.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmTurnos.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.FrmVacaciones.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.Frmvpersona.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.Resources.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.RbPrincipal.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella.Verificacion.resources
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.vbproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.exe.licenses
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\ejemploHuella1.exe
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\ejemploHuella1.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\ejemploHuella1.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Reglas.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Reportes.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Datos.dll
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Reglas.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Reglas.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Reportes.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Reportes.xml
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Datos.pdb
+C:\Users\Edgar\Desktop\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\Datos.xml
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia\ejemploHuella1\bin\Debug\ejemploHuella1.exe.config
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia - copia\ejemploHuella1\bin\Debug\ejemploHuella1.exe.config
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia - copia\ejemploHuella1\obj\Debug\ejemploHuella1.exe
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia - copia\ejemploHuella1\obj\Debug\ejemploHuella1.xml
+D:\Proyectos\vs 2012\integrado - VACACIONES - copia - copia\ejemploHuella1\obj\Debug\ejemploHuella1.pdb
